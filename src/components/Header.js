@@ -1,7 +1,7 @@
 function Header() {
     return (
         <header className='header-component'>
-            <h1>Ottergram</h1>
+            <h1>Ottergram App</h1>
         </header>
     )
 }
