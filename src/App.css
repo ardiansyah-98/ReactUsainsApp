@@ -42,7 +42,7 @@ body {
 }
 
 .header-component h1 {
-  background: white;
+  background: black;
   text-align: center;
   text-transform: uppercase;
   font-size: 3em;
